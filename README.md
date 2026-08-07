@@ -1,5 +1,7 @@
-# Pygame Pong with Spin and Tilt Physics
+# Painful Pong
+The most glorious version of Pong ever made
 
+## Pygame Pong with Spin and Tilt Physics
 * This is a local 2-player Pong game built from scratch using Python and Pygame
 * Made using OOP
 * Includes many new features
